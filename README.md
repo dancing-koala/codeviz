@@ -1,5 +1,7 @@
 # codeviz
 
+![codeviz](https://github.com/dancing-koala/codeviz/blob/master/codeviz_gen.png)
+
 ## What is it ?
 
 Codeviz is a command-line application that takes a file containing code as input and generates an image by applying a color scheme.
