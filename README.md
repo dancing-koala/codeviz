@@ -9,7 +9,7 @@ It is heavily inspired by [minimap](https://github.com/Ivoah/minimap) and uses t
 
 ## Why ?
 
-Firstly, I loved the idea of [minimap](https://github.com/Ivoah/minimap): creating visual art form a codebase.
+Firstly, I loved the idea of [minimap](https://github.com/Ivoah/minimap): creating visual art from a codebase.
 Secondly, I did it because it seemed fun and in order to improve my programming in Golang.
 
 ## How do I use it ?
